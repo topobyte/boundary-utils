@@ -1,7 +1,7 @@
 # About
 
 boundary-utils is a library for working with boundary geometries. In particular
-it offers utilities or computing a graph of adjacency for a set of boundaries.
+it offers utilities for computing a graph of adjacency for a set of boundaries.
 
 ## License
 
