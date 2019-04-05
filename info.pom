@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>boundary-utils</name>
+  <description>Utilities for working with boundary geometries.</description>
+  <url>https://github.com/topobyte/boundary-utils</url>
+</project>
