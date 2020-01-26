@@ -17,7 +17,7 @@
 
 package de.topobyte.boundaryutils;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 public interface GeometrySource<T>
 {

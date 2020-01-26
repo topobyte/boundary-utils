@@ -20,7 +20,7 @@ package de.topobyte.boundaryutils;
 import java.util.Collection;
 import java.util.List;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 import de.topobyte.adt.graph.Graph;
 import de.topobyte.jsi.GenericRTree;

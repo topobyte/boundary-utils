@@ -19,7 +19,7 @@ package de.topobyte.boundaryutils;
 
 import java.util.Map;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 public class MapGeometrySource<T> implements GeometrySource<T>
 {
