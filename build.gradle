@@ -28,8 +28,8 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
-    api 'de.topobyte:jsi-and-jts:0.2.0'
-    api 'de.topobyte:jts-indexing:0.2.0'
+    api 'de.topobyte:jsi-and-jts:0.3.0'
+    api 'de.topobyte:jts-indexing:0.4.0'
 }
 
 java {
